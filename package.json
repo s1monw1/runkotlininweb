@@ -1,0 +1,16 @@
+{
+  "name": "kotlin-runcode-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run webpack",
+    "webpack": "webpack -d --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kotlin-runcode": "^1.0.18",
+    "webpack": "^3.9.1"
+  }
+}
